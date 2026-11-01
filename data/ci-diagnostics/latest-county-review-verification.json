@@ -1,8 +1,8 @@
 {
   "schema": "electionhq-county-review-verification-v1",
-  "run_id": 41266136897,
+  "run_id": 41294488104,
   "run_attempt": 1,
-  "head_sha": "8e5deeddd828bb5986bb28f962be3f5df7c1d49f",
+  "head_sha": "9f4d412e5ecc5513d612942820254ec2e606bb76",
   "job_steps_status": "failure",
   "required_artifacts": {
     "nineteen-state-readiness-unapproved.json": false,
