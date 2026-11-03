@@ -1,7 +1,7 @@
 {
   "schema": "electionhq-ci-failure-summary-v1",
-  "run_id": 41573746485,
-  "run_url": "https://github.com/TylerOnTheHill/ElectionHQ/actions/runs/41573746485",
+  "run_id": 41627112472,
+  "run_url": "https://github.com/TylerOnTheHill/ElectionHQ/actions/runs/41627112472",
   "head_sha": "d9890563ea30e27bc4163df0076216f1b70e7bcb",
   "jobs": [
     {
@@ -9,9 +9,9 @@
       "conclusion": null,
       "failed_steps": [
         {
-          "name": "Aggregate Maine municipal observations into county candidates",
+          "name": "Stage 2026 Michigan and Ohio actual county ballot aggregates",
           "conclusion": "failure",
-          "number": 28
+          "number": 23
         }
       ]
     }
