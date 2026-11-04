@@ -1,8 +1,8 @@
 {
   "schema": "electionhq-ci-failure-summary-v1",
-  "run_id": 41889855449,
-  "run_url": "https://github.com/TylerOnTheHill/ElectionHQ/actions/runs/41889855449",
-  "head_sha": "ed2292bb476cf19299767e5873b519d28184dcad",
+  "run_id": 41937640208,
+  "run_url": "https://github.com/TylerOnTheHill/ElectionHQ/actions/runs/41937640208",
+  "head_sha": "2ed6ee11189de4e84c3446e4bd6b87491bf87151",
   "jobs": [
     {
       "job": "refresh / nineteen-state-review",
